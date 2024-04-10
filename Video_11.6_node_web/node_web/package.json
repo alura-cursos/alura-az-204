@@ -1,0 +1,13 @@
+{
+  "name": "node_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app_server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
